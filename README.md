@@ -1,2 +1,4 @@
 # EnvisionChicago-DataDiscovery
-This repository is used to maintain all the available and discovered data sets which will be used to perform various analytics
+Envision Chicago aims at inspecting the data about the city of Chicago, its people, businesses, health, transportation, government etc. The data is mainly concentrated for zip codes from 60601 to 60607. Envision Chicago analyzes the crimes around a place and then model crime statistics to predict the different types of crimes at different localities. It predicts the probability of Robbery for Summer 2018. Envision Chicago analyzes a restaurant’s rating, business viability and food inspection results. The statistics obtained from the analysis of this integrated data is represented in the form of graphs, charts, patterns and statistics.
+
+Data Discovery module of Envision Chicago.
